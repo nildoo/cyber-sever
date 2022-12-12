@@ -2,7 +2,6 @@
   "name": "cyberserver",
   "version": "1.0.0",
   "main": "src/index.ts",
-  "author": "Jhonatas Paulo <jp.jhonataspaulo@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
